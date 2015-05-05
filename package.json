@@ -1,0 +1,22 @@
+{
+  "name": "flickr_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bridgpal/flickr_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bridgpal/flickr_test/issues"
+  },
+  "homepage": "https://github.com/bridgpal/flickr_test",
+  "dependencies": {
+    "flickr": "^0.2.0"
+  }
+}
