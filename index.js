@@ -3,7 +3,7 @@ var Flickr = require('flickr').Flickr;
 var flickr = new Flickr(process.env.F_KEY, process.env.F_SECRET);
 
 var flickr_params = {
-    text: "soccer",
+    text: "futbol",
     media: "photos",
     per_page: 25,
     page: 1,
